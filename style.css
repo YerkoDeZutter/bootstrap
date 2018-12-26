@@ -1,1 +1,6 @@
-
+.cont-in{
+  background-color: #b387bb;
+  border-radius: 5px;
+  border: solid 3px black;
+  text-align: center;
+}
