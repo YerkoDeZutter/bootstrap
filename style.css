@@ -4,3 +4,10 @@
   border: solid 3px black;
   text-align: center;
 }
+
+
+.phone-in{
+  background-color: lightgray;
+  border: solid 1px gray;
+  text-align: center;
+}
